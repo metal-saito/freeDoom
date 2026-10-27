@@ -2,6 +2,8 @@
 
 ブラウザだけで動く DOOM 風 FPS です。外部アセット・ライブラリなし、`index.html` 1ファイルで完結しています。
 
+**▶ プレイする: https://freedoom-eta.vercel.app**
+
 ![タイトル画面](docs/title.png)
 
 ## スクリーンショット
